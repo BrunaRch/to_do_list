@@ -21,3 +21,8 @@ Imagens do projeto:
 ![](https://github.com/BrunaRch/to-do-list/blob/main/img/tela_adicionando_tarefas.jpeg)
 ![](https://github.com/BrunaRch/to-do-list/blob/main/img/tela_tarefa_conclu%C3%ADda.jpeg)
 ![](https://github.com/BrunaRch/to-do-list/blob/main/img/tela_botao_excluir.jpeg)
+
+
+##
+Acesse o projeto:
+https://brunarch.github.io/to_do_list/
